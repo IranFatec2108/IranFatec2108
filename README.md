@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=D2B48C&animation=fadeIn&fontAlign=50&fontAlignY=35"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=f89820&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Sou+Iran+Camargo;Desenvolvedor+Backend+Java;Sorocaba%2FSP+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=f89820&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Sou+Iran+Camargo;Desenvolvedor+Backend+Jr;Sorocaba%2FSP+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" />
 
 
 ### ☕ Desenvolvedor Backend | Java | Spring Boot
