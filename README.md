@@ -16,12 +16,12 @@
 
 </div>
 
-<hr />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 🎯 Sobre Mim
 
 Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC Sorocaba (2025). Experiência prática em APIs REST, arquitetura de microsserviços, mensageria (RabbitMQ) e cloud AWS (AWS Academy). Motivado a escrever código limpo, escalável e bem documentado. Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como Backend Developer Jr.
-<hr />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 🖥️ Stack Técnico - Backend
 
@@ -59,7 +59,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<hr />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 💼 Projetos em Destaque
 
