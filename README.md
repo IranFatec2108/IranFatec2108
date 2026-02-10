@@ -16,12 +16,12 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 ## 🎯 Sobre Mim
 
 Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC Sorocaba (2025). Experiência prática em APIs REST, arquitetura de microsserviços, mensageria (RabbitMQ) e cloud AWS (AWS Academy). Motivado a escrever código limpo, escalável e bem documentado. Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como Backend Developer Jr.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 ## 🖥️ Stack Técnico - Backend
 
@@ -59,7 +59,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 ## 💼 Projetos em Destaque
 
@@ -78,7 +78,7 @@ Sistema educacional em produção com conformidade WCAG 2.1. 🎓 Plataforma de 
 
 Sistema completo de fórum com autenticação e postagens. 👥 Sistema de usuários e autenticação | 💬 Postagens, comentários e interações | 🔐 Roles e permissões de acesso | 📚 Padrão MVC com Laravel | 🎯 Projeto acadêmico orientado (Prof. José Crespo - FATEC)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 
 ## 📊 GitHub Statistics
@@ -90,14 +90,14 @@ Sistema completo de fórum com autenticação e postagens. 👥 Sistema de usuá
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=IranFatec2108&bg_color=0d1117&color=D2B48C&line=8B4513&point=8B4513&area=true&hide_border=true" alt="Activity Graph"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 
 ## 📍 Localização & Disponibilidade
 
 📌 **Sorocaba/SP, Brasil** | 🌐 **Disponível para trabalho** | 💼 **Buscando:** Posição de Backend Developer Jr | Java | Spring Boot  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+<hr />
 
 ## 📬 Vamos Conversar?
 
