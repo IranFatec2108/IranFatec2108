@@ -15,7 +15,7 @@
 <!-- Premium divider (use só nos principais blocos) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2"/>
 
-## 🎯 Sobre Mim
+## 👨🏻‍💻 Sobre Mim
 
 Desenvolvedor backend com foco em **Java e Spring Boot**, formado em ADS pela **FATEC Sorocaba (2025)**.  
 Vivência em projetos com **APIs REST**, **microsserviços**, **mensageria (RabbitMQ)** e **AWS** (AWS Academy). Projeto em produção com foco em acessibilidade (**WCAG 2.1**).  
