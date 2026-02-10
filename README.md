@@ -1,29 +1,31 @@
-# Projeto Incrível em Java 🚀
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Java Badge](https://img.shields.io/badge/Java-Expert-blue.svg)
-![IDE Badge](https://img.shields.io/badge/IDE-Eclipse-1c1c1c?style=flat&logo=eclipse)
+# Terracotta-themed Java and Spring Boot Projects
 
-## 🌈 Paleta de Cores Terrosas
-- Marrons
-- Verdes
-- Neutros
+Welcome to the **IranFatec2108** repository! This repository hosts a variety of projects developed in Java utilizing the Spring Boot framework. The design incorporates a terracotta color theme, providing a warm and inviting aesthetic focused on modern software development.
 
-## ✨ Efeitos Dinâmicos
-Aproveite os animações incríveis enquanto navega por este projeto. Cada seção brilha e se move, trazendo a você uma experiência visual única!
+## Projects
 
-## 🛠️ Ferramentas Utilizadas
-- **Java** (Eclipse)
-- **Spring Framework** para desenvolvimento web
-- **Maven** para gerenciamento de dependências
+1. **Project 1:** A simple web application that uses Spring Boot, Thymeleaf, and MySQL.
+2. **Project 2:** RESTful APIs for managing user data and authentication.
+3. **Project 3:** A microservices architecture implementation using Spring Cloud.
 
-## 👨‍💻 Foco em Desenvolvedores Java Profissionais
-Este projeto demonstra as melhores práticas em desenvolvimento Java, oferecendo um código limpo e bem documentado, perfeito para desenvolvedores que desejam aprimorar suas habilidades.
+## Tech Stack
 
-## 🎮 Contribua
-Contribua para o nosso projeto e ajude-nos a torná-lo ainda mais robusto! Abra um pull request ou crie uma nova issue.
+- **Programming Language:** Java
+- **Framework:** Spring Boot
+- **Database:** MySQL, MongoDB
+- **Front End:** HTML, CSS, JavaScript, Thymeleaf
+- **Version Control:** GitHub
+- **Deployment:** Docker, Kubernetes
 
-## 📜 Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+## GitHub Stats
 
----
-**Atualizado em:** 2026-02-10 03:49:20
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IranFatec2108&show_icons=true&theme=radical)
+
+## Contributions and Community
+
+Feel free to fork this repository, contribute, and create issues for any feature requests or bugs. We encourage collaboration and welcome your input.
+
+Thank you for visiting our repository!
