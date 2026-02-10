@@ -72,31 +72,35 @@ Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-.NET%209%20|%20Ocelot%20|%20Worker%20|%20React%20Native%20|%20Python-blue?style=flat-square)
 
-**Links:** [Repo](COLE_AQUI) • [Docs](COLE_AQUI)
+**Links:** [Repositório](https://github.com/IranFatec2108/AMS_HoldCrypto) 
 
-- Arquitetura de **microsserviços** + **API Gateway (Ocelot)**
-- **Worker Service** para cotações em tempo real (Binance API) + persistência
-- **JWT**, comunicação assíncrona e base para gráficos (séries temporais)
+- Arquitetura de **microsserviços** com **API Gateway (Ocelot)**
+- **Worker Service** para cotações em tempo real (Binance API) e persistência
+- Autenticação **JWT** e base para processamento de séries temporais (gráficos)
+
+---
 
 ### ✅ ASAC — App de Acessibilidade (TCC)
 ![Status](https://img.shields.io/badge/Status-Em%20Produção-brightgreen?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-React%20Native%20|%20AWS%20(Amplify%2FCognito%2FDynamoDB%2FS3)-blue?style=flat-square)
 
-**Links:** [Repo](COLE_AQUI) • [Docs](COLE_AQUI)
+**Links:** [Repositório](https://github.com/IranFatec2108/ASAC) 
 
-- App educacional de Braille com foco em **acessibilidade (WCAG 2.1)**
-- **AWS Amplify + Cognito** (auth) + **DynamoDB** (dados) + **S3** (arquivos)
+- Aplicativo educacional de Braille com foco em **acessibilidade (WCAG 2.1)**
+- Integração **AWS Amplify + Cognito** (auth) + **DynamoDB** (dados) + **S3** (arquivos)
 - Sincronização offline e temas de alto contraste
+
+---
 
 ### 🏍️ Fórum de Motocicletas
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Laravel%20|%20PHP%20|%20MySQL-blue?style=flat-square)
 
-**Links:** [Repo](COLE_AQUI) • [Docs](COLE_AQUI)
+**Links:** [Repositório](https://github.com/IranFatec2108/forum) 
 
 - Autenticação e sistema de usuários
 - Postagens, comentários e interações
-- MVC com Laravel
+- Padrão MVC com Laravel
 
 <hr />
 
