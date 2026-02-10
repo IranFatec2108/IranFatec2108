@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 🎯 Sobre Mim
 
@@ -59,7 +59,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 💼 Projetos em Destaque
 
@@ -78,7 +78,8 @@ Sistema educacional em produção com conformidade WCAG 2.1. 🎓 Plataforma de 
 
 Sistema completo de fórum com autenticação e postagens. 👥 Sistema de usuários e autenticação | 💬 Postagens, comentários e interações | 🔐 Roles e permissões de acesso | 📚 Padrão MVC com Laravel | 🎯 Projeto acadêmico orientado (Prof. José Crespo - FATEC)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+
 
 ## 📊 GitHub Statistics
 
@@ -89,13 +90,14 @@ Sistema completo de fórum com autenticação e postagens. 👥 Sistema de usuá
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=IranFatec2108&bg_color=0d1117&color=D2B48C&line=8B4513&point=8B4513&area=true&hide_border=true" alt="Activity Graph"/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
+
 
 ## 📍 Localização & Disponibilidade
 
 📌 **Sorocaba/SP, Brasil** | 🌐 **Disponível para trabalho** | 💼 **Buscando:** Posição de Backend Developer Jr | Java | Spring Boot  
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header"/>
 
 ## 📬 Vamos Conversar?
 
@@ -104,6 +106,5 @@ Sistema completo de fórum com autenticação e postagens. 👥 Sistema de usuá
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981293708)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IranFatec2108)
 
----
 </div>
 
