@@ -17,9 +17,13 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, formado em ADS pela **FATEC Sorocaba (2025)**.  
-Vivência em projetos com **APIs REST**, **microsserviços**, **mensageria (RabbitMQ)** e **AWS** (AWS Academy). Projeto em produção com foco em acessibilidade (**WCAG 2.1**).  
-Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como **Backend Developer Jr**.
+Sou o **Iran**, nasci e moro em Sorocaba-SP. Minha jornada em tecnologia começou no ensino médio integrado ao técnico em **Análise e Desenvolvimento de Sistemas (2021–2023) e seguiu na graduação em ADS pela FATEC Sorocaba (2024–2025)**.
+
+Hoje estou direcionando minha carreira para desenvolvimento **backend em Java**. Meu foco é evoluir de forma consistente: fortalecer fundamentos, entender o “porquê” do código, escrever soluções mais limpas e bem organizadas, e aplicar boas práticas de arquitetura e metodologia no dia a dia.
+
+Tenho como meta construir uma base sólida para conquistar minha primeira oportunidade como **desenvolvedor backend** e crescer na área com disciplina, responsabilidade e aprendizado contínuo.
+
+
 
 <hr />
 
