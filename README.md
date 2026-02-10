@@ -20,7 +20,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC Sorocaba (2025). Experiência prática em APIs REST, arquitetura de microsserviços, mensageria (RabbitMQ) e cloud AWS (AWS Academy). Motivado a escrever código limpo, escalável e bem documentado. Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como Backend Developer Jr.Atualmente, focando e estudando POO, Spring Data/JPA e testes (JUnit).
+Desenvolvedor backend com foco em Java e Spring Boot, formado em ADS pela FATEC Sorocaba (2025). Experiência prática em APIs REST, arquitetura de microsserviços, mensageria (RabbitMQ) e cloud AWS (AWS Academy). Motivado a escrever código limpo, escalável e bem documentado. Objetivo 2026: consolidar Java/Spring e conquistar minha primeira posição como Backend Developer Jr.
 ---
 
 ## 🖥️ Stack Técnico - Backend
