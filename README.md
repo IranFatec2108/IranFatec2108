@@ -55,7 +55,6 @@ Tenho como meta construir uma base sólida para conquistar minha primeira oportu
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### ⚡ Outras Tecnologias (Experiência)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -71,6 +70,14 @@ Tenho como meta construir uma base sólida para conquistar minha primeira oportu
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2"/>
 
 ## 💼 Projetos em Destaque
+
+### 🚀 Java Foundations Mastery
+![Status](https://img.shields.io/badge/Status-Daily%20Study-orange?style=flat-square)
+**Links:** [Repositório](https://github.com/IranFatec2108/Java-Foundations-Mastery) 
+- Especialização em **Java 21 LTS** e Arquitetura de Objetos.
+- Foco em modularização, alta coesão, performance, Clean Code e Design Patterns.
+
+  ---
 
 ### 🏆 AMS HoldCrypto
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
