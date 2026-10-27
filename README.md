@@ -10,15 +10,25 @@
 
 <br /><br />
 
-<a href="#sobre">◉ Sobre</a> &nbsp; · &nbsp;
-<a href="#stack">⌘ Stack</a> &nbsp; · &nbsp;
-<a href="#projetos">▣ Projetos</a> &nbsp; · &nbsp;
-<a href="#formacao">◇ Formação</a> &nbsp; · &nbsp;
-<a href="#contato">↗ Contato</a>
+`APIs REST` &nbsp; · &nbsp; `REGRAS DE NEGÓCIO` &nbsp; · &nbsp; `PERSISTÊNCIA` &nbsp; · &nbsp; `TESTES`
+
+<br />
+
+<a href="#sobre"><kbd> ◉ <strong>SOBRE</strong> </kbd></a>
+&nbsp;
+<a href="#stack"><kbd> ⌘ <strong>STACK</strong> </kbd></a>
+&nbsp;
+<a href="#projetos"><kbd> ▣ <strong>PROJETOS</strong> </kbd></a>
+&nbsp;
+<a href="#formacao"><kbd> ◇ <strong>FORMAÇÃO</strong> </kbd></a>
+&nbsp;
+<a href="#contato"><kbd> ↗ <strong>CONTATO</strong> </kbd></a>
 
 </div>
 
 <br />
+
+---
 
 <a id="sobre"></a>
 
@@ -31,31 +41,38 @@ Sou Iran Camargo, formado em Análise e Desenvolvimento de Sistemas pela FATEC S
 
 Meu foco é backend com Java e Spring Boot: construir APIs REST, modelar regras de negócio e trabalhar com persistência e testes.
 
+<br />
+
 <img src="assets/profile-overview-ambient.png" width="100%" alt="Backend Java e Spring Boot; projeto autoral MajorAPI; formação em ADS e Engenharia de Software." />
+
+<br />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💈 O que estou construindo
+### 💈 Construindo agora
 
-A MajorAPI, projeto autoral que transforma necessidades de uma barbearia real em funcionalidades, com desenvolvimento incremental e decisões documentadas.
+A <strong>MajorAPI</strong>, um projeto autoral que transforma necessidades de uma barbearia real em funcionalidades, com desenvolvimento incremental e decisões documentadas.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Minha trajetória
+### 🤝 Experiência em equipe
 
-Projetos colaborativos com aplicações web, mobile, acessibilidade e serviços AWS, conectando desenvolvimento e necessidades reais.
+Participação em projetos com aplicações web, mobile, acessibilidade e serviços AWS, conectando desenvolvimento e necessidades reais.
 
 </td>
 </tr>
 </table>
 
-> **Meu próximo passo**  
+> 🎯 <strong>Meu próximo passo</strong>
+>
 > Busco minha primeira oportunidade profissional em desenvolvimento backend para contribuir com projetos e evoluir junto a uma equipe.
 
 <br />
+
+---
 
 <a id="stack"></a>
 
@@ -64,18 +81,20 @@ Projetos colaborativos com aplicações web, mobile, acessibilidade e serviços 
 
 <br />
 
-<img src="assets/stack.png" width="100%" alt="Java, Spring, JPA e SQL, testes, Git e Maven — símbolos autorais." />
+<img src="assets/stack.png" width="100%" alt="Java, Spring, JPA e SQL, testes, Git e Maven — símbolos gráficos autorais." />
+
+<br />
 
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| ☕ Backend | Java · Spring Boot · Maven · APIs REST |
-| 🧩 Contratos e regras | DTOs · Mappers · Bean Validation · Tratamento de exceções |
-| 🗃️ Persistência | JPA/Hibernate · H2 · SQL |
-| 🧪 Qualidade | JUnit · Mockito |
-| 🛠️ Ferramentas | IntelliJ IDEA · Postman · Git/GitHub |
+| ☕ <strong>Backend</strong> | Java · Spring Boot · Maven · APIs REST |
+| 🧩 <strong>Contratos e regras</strong> | DTOs · Mappers · Bean Validation · Tratamento de exceções |
+| 🗃️ <strong>Persistência</strong> | JPA/Hibernate · H2 · SQL |
+| 🧪 <strong>Qualidade</strong> | JUnit · Mockito |
+| 🛠️ <strong>Ferramentas</strong> | IntelliJ IDEA · Postman · Git/GitHub |
 
 <details>
-<summary>＋ Tecnologias utilizadas em projetos acadêmicos</summary>
+<summary><strong>＋ Tecnologias utilizadas em projetos acadêmicos</strong></summary>
 
 <br />
 
@@ -94,16 +113,24 @@ Projetos colaborativos com aplicações web, mobile, acessibilidade e serviços 
 ## ▣ Projetos selecionados
 <sub>03 / DO REQUISITO À ENTREGA</sub>
 
-### 💈 MajorAPI · Barbearia Control API
+<br />
+
+### 💈 MajorAPI
+#### Barbearia Control API
 
 `PROJETO AUTORAL` &nbsp; `BACKEND` &nbsp; `NEGÓCIO REAL`
 
+<br />
+
 <a href="https://github.com/IranFatec2108/MajorAPI"><img src="assets/majorapi.png" width="100%" alt="MajorAPI — Barbearia Control API, com Java, Spring Boot, persistência e testes." /></a>
 
-API REST para apoiar o controle interno de uma barbearia, com requisitos definidos a partir das necessidades do proprietário.
+<br />
 
-> **Entrega atual** · Módulo Services concluído  
-> **Em desenvolvimento** · Registro de atendimentos
+API REST para apoiar o controle interno de uma barbearia, com requisitos definidos a partir das necessidades do proprietário e evolução incremental por módulos.
+
+> ✅ <strong>Entrega atual</strong> · Módulo Services concluído
+>
+> 🔨 <strong>Em desenvolvimento</strong> · Registro de atendimentos
 
 <table>
 <tr>
@@ -132,59 +159,130 @@ API REST para apoiar o controle interno de uma barbearia, com requisitos definid
 
 `Java` `Spring Boot` `JPA/Hibernate` `H2` `Bean Validation` `JUnit` `Mockito`
 
-[⌘ Explorar código ↗](https://github.com/IranFatec2108/MajorAPI) &nbsp; · &nbsp; [↻ Acompanhar evolução](https://github.com/IranFatec2108/MajorAPI/commits)
+<br />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<br />
+<a href="https://github.com/IranFatec2108/MajorAPI">
+<strong>📂 EXPLORAR MAJORAPI ↗</strong>
+</a>
+<br /><br />
+<sub>Código e apresentação do projeto</sub>
+<br /><br />
+</td>
+<td align="center" width="50%">
+<br />
+<a href="https://github.com/IranFatec2108/MajorAPI/commits">
+<strong>↻ ACOMPANHAR EVOLUÇÃO ↗</strong>
+</a>
+<br /><br />
+<sub>Implementações e histórico de alterações</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 <br /><br />
 
 ### Outras construções
+<sub>EXPERIÊNCIA COLABORATIVA / ACESSIBILIDADE / INTEGRAÇÃO / APRENDIZADO</sub>
 
-<img src="assets/project-collection.png" width="100%" alt="ASAC: acessibilidade. HoldCrypto: integração. Cadastro de Ninjas: fundamentos backend." />
+<br /><br />
 
-<br />
+<img src="assets/project-collection.png" width="100%" alt="ASAC: acessibilidade e Braille. HoldCrypto: integração web, mobile e serviços. Cadastro de Ninjas: fundamentos backend." />
 
-### ◈ ASAC · Tecnologia com impacto social
+<br /><br />
+
+### ◈ ASAC
+#### Tecnologia com impacto social
 
 `TCC EM EQUIPE` &nbsp; `ACESSIBILIDADE` &nbsp; `EM USO PELA INSTITUIÇÃO`
 
 Aplicativo educacional de Braille desenvolvido para a Associação Sorocabana de Atividades para Deficientes Visuais.
 
-Minha contribuição: frontend, documentação e apoio em configurações dos serviços de backend. O projeto reúne recursos de contraste, áudio e integração com leitores de tela.
+<strong>Minha contribuição</strong>
+
+Frontend, documentação e apoio em configurações dos serviços de backend. O projeto reúne recursos de contraste, áudio e integração com leitores de tela.
 
 `React Native` `TypeScript` `AWS Amplify` `Cognito` `DynamoDB` `S3`
 
-[⌘ Conhecer ASAC ↗](https://github.com/IranFatec2108/ASAC)
+<br />
+
+<table>
+<tr>
+<td width="100%">
+<br />
+&nbsp; <a href="https://github.com/IranFatec2108/ASAC"><strong>📂 CONHECER O PROJETO ASAC ↗</strong></a>
+<br /><br />
+&nbsp; <sub>Acessibilidade, desenvolvimento mobile e trabalho em equipe</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 <br />
 
 ---
 
-### ⇄ HoldCrypto · Aplicações conectadas
+### ⇄ HoldCrypto
+#### Aplicações conectadas
 
 `PROJETO EM EQUIPE` &nbsp; `WEB & MOBILE` &nbsp; `INTEGRAÇÃO`
 
 Plataforma acadêmica de simulação de negociação de criptomoedas, com aplicações web e mobile integradas a serviços de backend.
 
-Atuei no aplicativo mobile com autenticação, saldo e transações. Também contribuí no frontend web, integração com APIs, ajustes de regras de negócio, chatbot em Python e documentação técnica.
+<strong>Minha contribuição</strong>
+
+Aplicativo mobile com autenticação, saldo e transações, além de frontend web, integração com APIs, ajustes de regras de negócio, chatbot em Python e documentação técnica.
 
 `C#/.NET` `Next.js` `React Native` `FastAPI` `Ocelot` `SQLite`
 
-[⌘ Conhecer HoldCrypto ↗](https://github.com/IranFatec2108/AMS_HoldCrypto)
+<br />
+
+<table>
+<tr>
+<td width="100%">
+<br />
+&nbsp; <a href="https://github.com/IranFatec2108/AMS_HoldCrypto"><strong>📂 EXPLORAR HOLDCRYPTO ↗</strong></a>
+<br /><br />
+&nbsp; <sub>Aplicações web e mobile, APIs e integração entre serviços</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 <br />
 
 ---
 
-### ⌁ Cadastro de Ninjas · Fundamentos em prática
+### ⌁ Cadastro de Ninjas
+#### Fundamentos backend em prática
 
- `API REST` &nbsp; `JAVA + SPRING`
+`JAVA10X` &nbsp; `API REST` &nbsp; `JAVA + SPRING`
 
 API desenvolvida durante o curso Java10x, com operações de cadastro, consulta, atualização e exclusão.
 
-Prática de organização em camadas, injeção de dependências, DTOs, mappers e transformação de coleções com Streams.
+<strong>Prática técnica</strong>
+
+Organização em camadas, injeção de dependências, DTOs, mappers e transformação de coleções com Streams.
 
 `Java` `Spring Boot` `JPA` `H2`
 
-[⌘ Explorar código ↗](https://github.com/IranFatec2108/CadastroDeNinjas)
+<br />
+
+<table>
+<tr>
+<td width="100%">
+<br />
+&nbsp; <a href="https://github.com/IranFatec2108/CadastroDeNinjas"><strong>📂 EXPLORAR CADASTRO DE NINJAS ↗</strong></a>
+<br /><br />
+&nbsp; <sub>Java, Spring Boot e fundamentos de construção de APIs</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -202,29 +300,61 @@ Prática de organização em camadas, injeção de dependências, DTOs, mappers 
 | Engenharia de Software · Pós-graduação | UniAmérica / Descomplica | Conclusão prevista: jun/2027 |
 | Análise e Desenvolvimento de Sistemas · Graduação | FATEC Sorocaba | Concluída |
 
-> **Em aprofundamento**  
+> 📚 <strong>Em aprofundamento</strong>
+>
 > Backend Java · SQL · Testes unitários · Fundamentos de frontend · Deploy
 
 <br />
 
-<a id="contato"></a>
+---
 
-## ↗ Vamos conversar?
+<a id="contato"></a>
 
 <div align="center">
 
-Aberto a oportunidades de desenvolvimento backend.
+<sub>05 / PRÓXIMO CAPÍTULO</sub>
 
+## 🤝 Vamos construir em equipe?
+
+### Aberto a oportunidades de desenvolvimento backend.
+
+Vamos conversar sobre projetos, tecnologia e oportunidades.
+
+<br />
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<br />
+<a href="https://www.linkedin.com/in/iran-camargo"><strong>💼 CONECTAR NO LINKEDIN ↗</strong></a>
 <br /><br />
+<sub>Trajetória profissional e oportunidades</sub>
+<br /><br />
+</td>
+<td align="center" width="50%">
+<br />
+<a href="https://wa.me/5515981293708"><strong>💬 CONVERSAR NO WHATSAPP ↗</strong></a>
+<br /><br />
+<sub>Contato direto para uma conversa</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/iran-camargo"><kbd> in · LinkedIn ↗ </kbd></a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5515981293708"><kbd> ☎ · WhatsApp ↗ </kbd></a>
-&nbsp;&nbsp;
-<a href="https://github.com/IranFatec2108?tab=repositories"><kbd> ⌘ · Repositórios ↗ </kbd></a>
+<div align="center">
+
+<br />
+
+<a href="https://github.com/IranFatec2108?tab=repositories"><kbd> 📂 <strong> EXPLORAR MAIS PROJETOS ↗ </strong> </kbd></a>
 
 <br /><br />
 
 <img src="assets/footer-motion.gif" width="100%" alt="Vamos conectar código e oportunidade. Rodapé animado em cobre e verde-menta." />
+
+<br /><br />
+
+<a href="#sobre"><strong>↑ VOLTAR À APRESENTAÇÃO</strong></a>
 
 </div>
