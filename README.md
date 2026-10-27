@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="assets/hero-motion.gif" width="100%" alt="Iran Camargo — Backend Java e Spring Boot." />
+<img src="assets/hero-motion.gif" width="100%" alt="Iran Camargo — Backend Java e Spring Boot. Animação de requisições entre API, domínio e dados." />
 
 <br />
 
-<a href="https://www.linkedin.com/in/iran-camargo"><img src="assets/link-linkedin.png" width="32%" alt="LinkedIn" /></a>
-<a href="https://github.com/IranFatec2108?tab=repositories"><img src="assets/link-repositories.png" width="32%" alt="Repositórios" /></a>
-<a href="https://wa.me/5515981293708"><img src="assets/link-whatsapp.png" width="32%" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/iran-camargo"><img src="assets/link-linkedin.png" width="32%" alt="LinkedIn — vamos conectar" /></a>
+<a href="https://github.com/IranFatec2108?tab=repositories"><img src="assets/link-repositories.png" width="32%" alt="Repositórios — explore o código" /></a>
+<a href="https://wa.me/5515981293708"><img src="assets/link-whatsapp.png" width="32%" alt="WhatsApp — vamos conversar" /></a>
 
 <br /><br />
 
-<a href="#sobre">Sobre</a>
-&nbsp; · &nbsp;
-<a href="#stack">Stack</a>
-&nbsp; · &nbsp;
-<a href="#projetos">Projetos</a>
-&nbsp; · &nbsp;
-<a href="#formacao">Formação</a>
-&nbsp; · &nbsp;
-<a href="#contato">Contato</a>
+<a href="#sobre"><img src="assets/nav-sobre.png" width="19%" alt="Sobre" /></a>
+<a href="#stack"><img src="assets/nav-stack.png" width="19%" alt="Stack" /></a>
+<a href="#projetos"><img src="assets/nav-projetos.png" width="19%" alt="Projetos" /></a>
+<a href="#formacao"><img src="assets/nav-formacao.png" width="19%" alt="Formação" /></a>
+<a href="#contato"><img src="assets/nav-contato.png" width="19%" alt="Contato" /></a>
 
 </div>
 
@@ -28,19 +24,11 @@
 
 ## Sobre mim
 
-Sou Iran Camargo, formado em Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba e pós-graduando em Engenharia de Software pela UniAmérica / Descomplica.
-
-Meu foco é backend com Java e Spring Boot: construir APIs REST, modelar regras de negócio e trabalhar com persistência e testes.
-
-Atualmente desenvolvo a MajorAPI, um projeto autoral baseado nas necessidades de uma barbearia real. Também participei de projetos colaborativos com aplicações web, mobile, acessibilidade e serviços AWS.
+<img src="assets/about-json.png" width="100%" alt="Perfil de Iran Camargo em JSON: foco em backend Java e Spring Boot, APIs REST, persistência e testes. Formado em ADS pela FATEC Sorocaba e pós-graduando em Engenharia de Software pela UniAmérica / Descomplica, com conclusão prevista para junho de 2027. Desenvolve a MajorAPI e busca sua primeira oportunidade em backend." />
 
 <br />
 
-<img src="assets/profile-overview-ambient.png" width="100%" alt="Backend Java e Spring Boot, projeto autoral MajorAPI e formação em Engenharia de Software." />
-
-<br />
-
-> Busco minha primeira oportunidade profissional em desenvolvimento backend, para contribuir com projetos e evoluir junto a uma equipe.
+<img src="assets/profile-overview-ambient.png" width="100%" alt="Backend Java e Spring Boot; projeto autoral MajorAPI; formação em ADS e Engenharia de Software." />
 
 <br />
 
@@ -48,20 +36,20 @@ Atualmente desenvolvo a MajorAPI, um projeto autoral baseado nas necessidades de
 
 ## Stack & ferramentas
 
-<img src="assets/stack.png" width="100%" alt="Java, Spring, JPA e SQL, testes, Git e Maven." />
+<img src="assets/stack.png" width="100%" alt="Java, Spring, JPA e SQL, testes, Git e Maven — símbolos gráficos autorais." />
 
 <br />
 
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| Backend | Java · Spring Boot · Maven · APIs REST |
-| Contratos e regras | DTOs · Mappers · Bean Validation · Tratamento de exceções |
-| Persistência | JPA/Hibernate · H2 · SQL |
-| Qualidade | JUnit · Mockito |
-| Ferramentas | IntelliJ IDEA · Postman · Git/GitHub |
+| ☕ Backend | Java · Spring Boot · Maven · APIs REST |
+| 🧩 Contratos e regras | DTOs · Mappers · Bean Validation · Tratamento de exceções |
+| 🗃️ Persistência | JPA/Hibernate · H2 · SQL |
+| 🧪 Qualidade | JUnit · Mockito |
+| 🛠️ Ferramentas | IntelliJ IDEA · Postman · Git/GitHub |
 
 <details>
-<summary>Outras tecnologias utilizadas em projetos acadêmicos</summary>
+<summary>＋ Tecnologias utilizadas em projetos acadêmicos</summary>
 
 <br />
 
@@ -75,15 +63,15 @@ Atualmente desenvolvo a MajorAPI, um projeto autoral baseado nas necessidades de
 
 <a id="projetos"></a>
 
-## Projetos
+## Projetos selecionados
 
-### MajorAPI · Barbearia Control API
+### 💈 MajorAPI · Barbearia Control API
 
 <sub>PROJETO AUTORAL &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; NEGÓCIO REAL</sub>
 
 <br /><br />
 
-<a href="https://github.com/IranFatec2108/MajorAPI"><img src="assets/majorapi.png" width="100%" alt="MajorAPI — API para controle interno de uma barbearia." /></a>
+<a href="https://github.com/IranFatec2108/MajorAPI"><img src="assets/majorapi.png" width="100%" alt="MajorAPI — API para controle interno de uma barbearia, com Java e Spring Boot." /></a>
 
 API REST desenvolvida a partir das necessidades de uma barbearia real, com evolução incremental e decisões documentadas.
 
@@ -92,25 +80,31 @@ API REST desenvolvida a partir das necessidades de uma barbearia real, com evolu
 - DTOs, tratamento global de exceções e respostas padronizadas.
 - Testes unitários e preservação dos registros por inativação lógica.
 
-> Módulo Services concluído · Registro de atendimentos em desenvolvimento.
+> ✅ Módulo Services concluído.
+>
+> 🔨 Registro de atendimentos em desenvolvimento.
 
 `Java` `Spring Boot` `JPA/Hibernate` `H2` `Bean Validation` `JUnit` `Mockito`
 
+<br />
+
 <div align="center">
 
-<a href="https://github.com/IranFatec2108/MajorAPI"><kbd> ↗ Repositório </kbd></a>
+<a href="https://github.com/IranFatec2108/MajorAPI"><kbd> 📂 Explorar repositório ↗ </kbd></a>
 &nbsp;&nbsp;
-<a href="https://github.com/IranFatec2108/MajorAPI/commits"><kbd> ↻ Evolução </kbd></a>
+<a href="https://github.com/IranFatec2108/MajorAPI/commits"><kbd> ↻ Acompanhar evolução </kbd></a>
 
 </div>
 
 <br /><br />
 
-<img src="assets/project-collection.png" width="100%" alt="ASAC, HoldCrypto e Cadastro de Ninjas." />
+### Outras construções
+
+<img src="assets/project-collection.png" width="100%" alt="ASAC: acessibilidade e Braille. HoldCrypto: integração entre aplicações. Cadastro de Ninjas: fundamentos backend." />
 
 <br />
 
-### ASAC · Acessibilidade e aprendizado
+### ◈ ASAC · Acessibilidade e aprendizado
 
 <sub>PROJETO EM EQUIPE &nbsp; / &nbsp; APLICATIVO EDUCACIONAL &nbsp; / &nbsp; EM USO PELA INSTITUIÇÃO</sub>
 
@@ -122,9 +116,11 @@ Contribuí no frontend, na documentação e em configurações dos serviços de 
 
 `React Native` `TypeScript` `AWS Amplify` `Cognito` `DynamoDB` `S3`
 
+<br />
+
 <div align="center">
 
-<a href="https://github.com/IranFatec2108/ASAC"><kbd> ↗ Conhecer ASAC </kbd></a>
+<a href="https://github.com/IranFatec2108/ASAC"><kbd> 📂 Conhecer ASAC ↗ </kbd></a>
 
 </div>
 
@@ -132,7 +128,7 @@ Contribuí no frontend, na documentação e em configurações dos serviços de 
 
 ---
 
-### HoldCrypto · Aplicações conectadas
+### ⇄ HoldCrypto · Aplicações conectadas
 
 <sub>PROJETO EM EQUIPE &nbsp; / &nbsp; WEB & MOBILE &nbsp; / &nbsp; INTEGRAÇÃO DE SERVIÇOS</sub>
 
@@ -144,9 +140,11 @@ Atuei no aplicativo mobile com autenticação, saldo e transações. Também con
 
 `C#/.NET` `Next.js` `React Native` `FastAPI` `Ocelot` `SQLite`
 
+<br />
+
 <div align="center">
 
-<a href="https://github.com/IranFatec2108/AMS_HoldCrypto"><kbd> ↗ Conhecer HoldCrypto </kbd></a>
+<a href="https://github.com/IranFatec2108/AMS_HoldCrypto"><kbd> 📂 Conhecer HoldCrypto ↗ </kbd></a>
 
 </div>
 
@@ -154,7 +152,7 @@ Atuei no aplicativo mobile com autenticação, saldo e transações. Também con
 
 ---
 
-### Cadastro de Ninjas · Fundamentos em prática
+### ⌁ Cadastro de Ninjas · Fundamentos em prática
 
 <sub>JAVA10X &nbsp; / &nbsp; API REST &nbsp; / &nbsp; JAVA + SPRING BOOT</sub>
 
@@ -166,9 +164,11 @@ Prática de organização em camadas, injeção de dependências, DTOs, mappers 
 
 `Java` `Spring Boot` `JPA` `H2`
 
+<br />
+
 <div align="center">
 
-<a href="https://github.com/IranFatec2108/CadastroDeNinjas"><kbd> ↗ Conhecer projeto </kbd></a>
+<a href="https://github.com/IranFatec2108/CadastroDeNinjas"><kbd> 📂 Conhecer projeto ↗ </kbd></a>
 
 </div>
 
@@ -187,11 +187,11 @@ FATEC Sorocaba · Concluída.
 <br />
 
 <details>
-<summary>O que estou aprofundando atualmente</summary>
+<summary>＋ O que estou aprofundando atualmente</summary>
 
 <br />
 
-Backend Java · SQL · Testes unitários · Fundamentos de frontend · Deploy.
+`Backend Java` `SQL` `Testes unitários` `Fundamentos de frontend` `Deploy`
 
 </details>
 
@@ -201,15 +201,19 @@ Backend Java · SQL · Testes unitários · Fundamentos de frontend · Deploy.
 
 <div align="center">
 
-<img src="assets/footer-motion.gif" width="100%" alt="Vamos conectar código e oportunidade." />
+<img src="assets/footer-motion.gif" width="100%" alt="Vamos conectar código e oportunidade. Animação em cobre e verde-menta." />
+
+<br />
+
+Aberto a oportunidades de desenvolvimento backend.
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/iran-camargo"><kbd> LinkedIn ↗ </kbd></a>
+<a href="https://www.linkedin.com/in/iran-camargo"><kbd> 💼 LinkedIn ↗ </kbd></a>
 &nbsp;&nbsp;
-<a href="https://wa.me/5515981293708"><kbd> WhatsApp ↗ </kbd></a>
+<a href="https://wa.me/5515981293708"><kbd> 💬 WhatsApp ↗ </kbd></a>
 &nbsp;&nbsp;
-<a href="https://github.com/IranFatec2108?tab=repositories"><kbd> Repositórios ↗ </kbd></a>
+<a href="https://github.com/IranFatec2108?tab=repositories"><kbd> 📂 Repositórios ↗ </kbd></a>
 
 <br /><br />
 
