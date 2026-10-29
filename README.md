@@ -154,11 +154,11 @@ Atuei no aplicativo mobile com autenticação, saldo e transações. Também con
 
 ### ⌁ Cadastro de Ninjas · Fundamentos em prática
 
-<sub>JAVA10X &nbsp; / &nbsp; API REST &nbsp; / &nbsp; JAVA + SPRING BOOT</sub>
+<sub> &nbsp; API REST &nbsp; / &nbsp; JAVA + SPRING BOOT</sub>
 
 <br /><br />
 
-API desenvolvida durante o curso Java10x, com operações de cadastro, consulta, atualização e exclusão.
+API desenvolvida durante o curso, com operações de cadastro, consulta, atualização e exclusão.
 
 Prática de organização em camadas, injeção de dependências, DTOs, mappers e transformação de coleções com Streams.
 
